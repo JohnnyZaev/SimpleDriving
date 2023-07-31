@@ -172,6 +172,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   highScoreText: {fileID: 662657768}
   energyText: {fileID: 1441099695}
+  playButton: {fileID: 1978116270}
   androidNotificationHandler: {fileID: 76548270}
   iOSNotificationHandler: {fileID: 76548271}
   maxEnergy: 5
@@ -543,7 +544,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -125}
-  m_SizeDelta: {x: 320, y: 125}
+  m_SizeDelta: {x: 420, y: 125}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1268718775
 MonoBehaviour:
@@ -1052,7 +1053,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 125}
-  m_SizeDelta: {x: 320, y: 125}
+  m_SizeDelta: {x: 420, y: 125}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1978116270
 MonoBehaviour:
